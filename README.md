@@ -1,4 +1,4 @@
-# Building ERC-1155 and Peform Minting ang SetTokenURI
+# Building ERC-1155 and Perform Minting & SetTokenURI Operation
 
 ## Build
 
